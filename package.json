@@ -1,5 +1,5 @@
 {
-  "name": "gengine-scripts",
+  "name": "@371digital/gengine-scripts",
   "version": "1.0.0",
   "description": "",
   "main": "./bin/index.js",
